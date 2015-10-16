@@ -1,7 +1,7 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "https://github.com/k8hertweck/2015-11-19-umiami-R"
+workshop_repo   : "http://github.com/k8hertweck/2015-11-19-umiami-R"
 workshop_site   : "http://k8hertweck.github.io/2015-11-19-umiami-R"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
